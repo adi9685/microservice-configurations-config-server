@@ -1,6 +1,6 @@
 spring:
   application:
-    name: HOTEL-SERVICE-DEV
+    name: HOTEL-SERVICE-dev
 
 eureka:
  instance:
